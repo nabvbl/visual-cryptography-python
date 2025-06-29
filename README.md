@@ -1,5 +1,3 @@
-# visual-cryptography-python
-A simple visual cryptography system using Python, Pillow, NumPy, and Tkinter.
 # Visual Cryptography in Python 🕵️‍♂️
 
 This is a simple visual cryptography project built with Python.
